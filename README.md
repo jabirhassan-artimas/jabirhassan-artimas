@@ -1,210 +1,475 @@
 <p align="center">
-  <img src="./assets/banner.svg?v=2" alt="Jabir Hassan Cyberpunk Banner" width="100%" />
+  <img src="./assets/banner.svg" width="100%" alt="Jabir Hassan — Software Engineer & 3D Artist" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00F0FF&background=0B0E1400&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;Offline-First+Application+Architect;3D+Environment+%26+Character+Artist" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=00E5FF&background=00000000&center=true&vCenter=true&multiline=false&width=520&lines=Software+Engineer;Full+Stack+Developer;Electron+%2F+Desktop+Application+Developer;Laravel+%26+Node.js+Developer;React+Developer;Offline-First+Architecture+Specialist;3D+Artist+%26+Blender+Expert;Game+Asset+Creator;Product+Visualization+Artist" alt="Typing animation" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jabirhassan-artimas&color=00F0FF" alt="Visitor Counter" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jabirhassan-artimas&color=00E5FF&style=flat-square" alt="Profile views" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-00E5FF?style=flat-square&labelColor=0D1117" alt="Status" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Bangladesh-8B5CF6?style=flat-square&labelColor=0D1117" alt="Location" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" />
+</p>
+
+<!----------------------------------------------------------------------
+  INTRODUCTION
+----------------------------------------------------------------------->
+
+<br/>
+
+<p align="center">
+  <strong>I architect complete software ecosystems.</strong>
 </p>
 
 <p align="center">
-  <img src="./assets/divider.svg?v=2" alt="Separator" width="100%" />
+  From enterprise ERP and offline-first POS systems to full-stack web platforms, REST APIs,<br/>
+  and immersive 3D product visualizations — I build software that scales and art that sells.
 </p>
 
-<h2 align="center">✦ SYSTEM_OVERVIEW ✦</h2>
+<br/>
 
-<p align="center">
-I build complete digital products—from highly scalable web applications to immersive, interactive 3D experiences. By bridging the gap between robust software engineering and high-fidelity 3D artwork, I create seamless, high-performance applications and high-fidelity visuals.
-</p>
-
-<p align="center">
-📍 Located in: <b>Bangladesh</b> &nbsp; | &nbsp; 💻 Current Status: <b>Online</b>
-</p>
-
-<p align="center">
-  <img src="./assets/divider.svg?v=2" alt="Separator" width="100%" />
-</p>
-
-<h2 align="center">✦ TECH_STACK ✦</h2>
-
-### 💻 Software Development
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-080B10?style=for-the-badge&logo=javascript&logoColor=00F0FF" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-080B10?style=for-the-badge&logo=typescript&logoColor=00F0FF" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/PHP-080B10?style=for-the-badge&logo=php&logoColor=00F0FF" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-080B10?style=for-the-badge&logo=laravel&logoColor=00F0FF" alt="Laravel" />
-  <img src="https://img.shields.io/badge/React-080B10?style=for-the-badge&logo=react&logoColor=00F0FF" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-080B10?style=for-the-badge&logo=nodedotjs&logoColor=00F0FF" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-080B10?style=for-the-badge&logo=express&logoColor=00F0FF" alt="Express" />
-  <img src="https://img.shields.io/badge/MySQL-080B10?style=for-the-badge&logo=mysql&logoColor=00F0FF" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-080B10?style=for-the-badge&logo=tailwindcss&logoColor=00F0FF" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-080B10?style=for-the-badge&logo=bootstrap&logoColor=00F0FF" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Git-080B10?style=for-the-badge&logo=git&logoColor=00F0FF" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-080B10?style=for-the-badge&logo=docker&logoColor=00F0FF" alt="Docker" />
-  <img src="https://img.shields.io/badge/REST_API-080B10?style=for-the-badge&logo=postman&logoColor=00F0FF" alt="REST API" />
-</p>
-
-### 🖥️ Desktop & Offline Architecture
-<p align="left">
-  <img src="https://img.shields.io/badge/Electron-080B10?style=for-the-badge&logo=electron&logoColor=0072FF" alt="Electron" />
-  <img src="https://img.shields.io/badge/SQLite-080B10?style=for-the-badge&logo=sqlite&logoColor=0072FF" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Offline_First-080B10?style=for-the-badge&logo=databricks&logoColor=0072FF" alt="Offline First" />
-  <img src="https://img.shields.io/badge/Windows_Desktop-080B10?style=for-the-badge&logo=windows&logoColor=0072FF" alt="Windows Desktop Applications" />
-</p>
-
-### 🎨 3D Modeling & Visualization
-<p align="left">
-  <img src="https://img.shields.io/badge/Blender-080B10?style=for-the-badge&logo=blender&logoColor=BD00FF" alt="Blender" />
-  <img src="https://img.shields.io/badge/Substance_Painter-080B10?style=for-the-badge&logo=adobesubstance3dpainter&logoColor=BD00FF" alt="Substance Painter" />
-  <img src="https://img.shields.io/badge/Photoshop-080B10?style=for-the-badge&logo=adobephotoshop&logoColor=BD00FF" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Illustrator-080B10?style=for-the-badge&logo=adobeillustrator&logoColor=BD00FF" alt="Illustrator" />
-  <img src="https://img.shields.io/badge/Unreal_Engine-080B10?style=for-the-badge&logo=unrealengine&logoColor=BD00FF" alt="Unreal Engine" />
-  <img src="https://img.shields.io/badge/Unity-080B10?style=for-the-badge&logo=unity&logoColor=BD00FF" alt="Unity" />
-  <img src="https://img.shields.io/badge/Cycles_Render-080B10?style=for-the-badge&logo=blender&logoColor=BD00FF" alt="Cycles Render Engine" />
-  <img src="https://img.shields.io/badge/Eevee_Render-080B10?style=for-the-badge&logo=blender&logoColor=BD00FF" alt="Eevee Render Engine" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,react,js,ts,electron,nodejs,mysql,sqlite,tailwind,git,docker,blender,unity,unreal,ps,ai&theme=dark" alt="Skill Icons Matrix" />
-</p>
-
-<p align="center">
-  <img src="./assets/divider.svg?v=2" alt="Separator" width="100%" />
-</p>
-
-<h2 align="center">✦ FEATURED_PROJECTS ✦</h2>
-
-<table width="100%" border="0" cellspacing="10" cellpadding="0" align="center">
+<table align="center" width="80%" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <!-- AzMain POS -->
-    <td width="50%" valign="top">
-      <h3>❯ AzMain POS</h3>
-      <p>An enterprise-level offline-first Point of Sale application designed to handle high transaction volumes offline and sync data seamlessly to cloud systems when online.</p>
-      <code>Electron</code> <code>Laravel</code> <code>SQLite</code> <code>Offline Architecture</code>
+    <td align="center" width="33%" valign="top">
+      <b>Software</b><br/><sub>ERP · POS · CMS · APIs<br/>Enterprise Systems</sub>
     </td>
-    <!-- Real Estate ERP -->
-    <td width="50%" valign="top">
-      <h3>❯ Real Estate ERP</h3>
-      <p>Comprehensive enterprise Resource Planning engine for property management, tenant onboarding, financial tracking, and real-time operations dashboards.</p>
-      <code>Laravel</code> <code>React</code> <code>TypeScript</code> <code>MySQL</code>
+    <td align="center" width="33%" valign="top">
+      <b>Desktop</b><br/><sub>Electron · Offline-First<br/>Windows Applications</sub>
     </td>
-  </tr>
-  <tr>
-    <!-- Coaching Management System -->
-    <td width="50%" valign="top">
-      <h3>❯ Coaching Management System</h3>
-      <p>Interactive student lifecycle management platform with advanced class scheduling, fee management pipelines, and automated reporting systems.</p>
-      <code>PHP</code> <code>JavaScript</code> <code>Bootstrap</code> <code>MySQL</code>
-    </td>
-    <!-- School Management System -->
-    <td width="50%" valign="top">
-      <h3>❯ School Management System</h3>
-      <p>A full-scale educational institution management system optimizing attendance, grading databases, payroll operations, and teacher-parent portals.</p>
-      <code>Laravel</code> <code>Tailwind CSS</code> <code>MySQL</code> <code>REST API</code>
-    </td>
-  </tr>
-  <tr>
-    <!-- Robot Warrior (3D Portfolio) -->
-    <td colspan="2" valign="top" align="center">
-      <h3>❯ Robot Warrior</h3>
-      <p>High-fidelity, optimized 3D sci-fi character modeling. Built from scratch with complex hard-surface mechanical components, textured with realistic PBR wear in Substance Painter, rigged for skeletal animation, and rendered inside Cycles.</p>
-      <code>Blender</code> <code>Substance Painter</code> <code>Rigging</code> <code>Cycles</code> <code>Unreal Engine</code>
+    <td align="center" width="33%" valign="top">
+      <b>3D Creative</b><br/><sub>Product Viz · Game Assets<br/>Environment Design</sub>
     </td>
   </tr>
 </table>
 
+<br/>
+
 <p align="center">
-  <img src="./assets/divider.svg?v=2" alt="Separator" width="100%" />
+  <img src="./assets/divider.svg" width="100%" />
 </p>
 
-<h2 align="center">✦ TERMINAL_STATS ✦</h2>
+<!----------------------------------------------------------------------
+  ABOUT ME
+----------------------------------------------------------------------->
 
-<div align="center">
-  <table border="0" cellspacing="5" cellpadding="0">
-    <tr>
-      <td align="center" valign="middle">
-        <img src="https://github-stats-extended.vercel.app/api?username=jabirhassan-artimas&show_icons=true&theme=tokyonight&bg_color=080B10&title_color=00F0FF&text_color=E2E8F0&icon_color=BD00FF&border_color=00F0FF&hide_border=false" alt="GitHub Stats" />
-      </td>
-      <td align="center" valign="middle">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jabirhassan-artimas&layout=compact&theme=tokyonight&bg_color=080B10&title_color=00F0FF&text_color=E2E8F0&icon_color=BD00FF&border_color=00F0FF&hide_border=false" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  
-  <br />
+<h2 align="center">About Me</h2>
 
-  <table border="0" cellspacing="5" cellpadding="0">
-    <tr>
-      <td align="center" valign="middle">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jabirhassan-artimas&theme=tokyonight&background=080B10&ring=00F0FF&fire=BD00FF&currStreakNum=00F0FF&sideNums=E2E8F0&sideLabels=8F9CAE&dates=8F9CAE&stroke=BD00FF&hide_border=false" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+<br/>
 
-  <br />
+<table align="center" width="88%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Problem Solver with a focus on clean, scalable architecture</li>
+        <li>Specialist in Offline-First &amp; disconnected systems</li>
+        <li>Full-Stack engineer comfortable from DB schema to UI</li>
+        <li>Desktop application developer (Electron + Laravel)</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li>3D artist — product visualization &amp; game assets</li>
+        <li>AI-assisted development workflows</li>
+        <li>Cross-platform &amp; responsive design mindset</li>
+        <li>Continuous learner — always shipping, always improving</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-  <table border="0" cellspacing="5" cellpadding="0">
-    <tr>
-      <td align="center" valign="middle">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=jabirhassan-artimas&bg_color=080B10&color=00F0FF&line=BD00FF&point=00F0FF&area=true&hide_border=false" alt="GitHub Activity Graph" />
-      </td>
-    </tr>
-  </table>
-</div>
+<br/>
 
 <p align="center">
-  <img src="./assets/divider.svg?v=2" alt="Separator" width="100%" />
+  <img src="./assets/divider.svg" width="100%" />
 </p>
 
-<h2 align="center">✦ CURRENT_LEARNING ✦</h2>
+<!----------------------------------------------------------------------
+  TECH STACK
+----------------------------------------------------------------------->
 
-<div align="center">
-  <table>
-    <tr>
-      <td><b>❯ GPU Shaders (GLSL / HLSL)</b></td>
-      <td>Developing highly optimized custom shaders for real-time engines.</td>
-    </tr>
-    <tr>
-      <td><b>❯ Next.js &amp; Serverless</b></td>
-      <td>Exploring hybrid static-rendering and edge computing architectures.</td>
-    </tr>
-    <tr>
-      <td><b>❯ Advanced Rigging</b></td>
-      <td>Perfecting facial rigging and mechanical joint-constraint systems.</td>
-    </tr>
-  </table>
-</div>
+<h2 align="center">Tech Stack</h2>
 
+<br/>
+
+<h4 align="center">Backend</h4>
 <p align="center">
-  <img src="./assets/divider.svg?v=2" alt="Separator" width="100%" />
+  <img src="https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
+  <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF" />
 </p>
 
-<h2 align="center">✦ SECURE_COMMUNICATION ✦</h2>
-
+<h4 align="center">Frontend</h4>
 <p align="center">
-Feel free to reach out for project collaboration, software consultancy, or custom 3D design work.
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
 </p>
 
+<h4 align="center">Desktop &amp; Offline</h4>
 <p align="center">
+  <img src="https://img.shields.io/badge/Electron-0D1117?style=for-the-badge&logo=electron&logoColor=47848F" />
+  <img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=003B57" />
+  <img src="https://img.shields.io/badge/Offline--First-0D1117?style=for-the-badge&logo=databricks&logoColor=8B5CF6" />
+  <img src="https://img.shields.io/badge/Windows%20Desktop-0D1117?style=for-the-badge&logo=windows&logoColor=0078D6" />
+</p>
+
+<h4 align="center">Database &amp; API</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=003B57" />
+  <img src="https://img.shields.io/badge/REST%20API-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+</p>
+
+<h4 align="center">3D &amp; Creative</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Blender-0D1117?style=for-the-badge&logo=blender&logoColor=E87D0D" />
+  <img src="https://img.shields.io/badge/Substance%20Painter-0D1117?style=for-the-badge&logo=adobesubstance3dpainter&logoColor=FF7C00" />
+  <img src="https://img.shields.io/badge/Unreal%20Engine-0D1117?style=for-the-badge&logo=unrealengine&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Photoshop-0D1117?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
+  <img src="https://img.shields.io/badge/Illustrator-0D1117?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" />
+</p>
+
+<h4 align="center">DevOps &amp; Tools</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,php,react,js,ts,electron,nodejs,express,mysql,sqlite,tailwind,bootstrap,git,docker,blender,unity,unreal,ps,ai&theme=dark&perline=10" alt="Skill Icons" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" />
+</p>
+
+<!----------------------------------------------------------------------
+  FEATURED PROJECTS
+----------------------------------------------------------------------->
+
+<h2 align="center">Featured Projects</h2>
+
+<br/>
+
+<table align="center" width="90%" border="0" cellpadding="12" cellspacing="0">
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3>AzMain POS</h3>
+      <p>Enterprise-grade offline-first Point of Sale system. Handles high transaction volumes with zero connectivity dependency. Built on Electron + Laravel with real-time barcode scanning, inventory, and accounting modules.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Electron-0D1117?style=flat-square&logo=electron&logoColor=47848F" />
+        <img src="https://img.shields.io/badge/Laravel-0D1117?style=flat-square&logo=laravel&logoColor=FF2D20" />
+        <img src="https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=003B57" />
+        <img src="https://img.shields.io/badge/Barcode-0D1117?style=flat-square&logo=databricks&logoColor=8B5CF6" />
+      </p>
+      <sub>Inventory · Accounting · Barcode · Offline Sync</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Real Estate ERP</h3>
+      <p>Comprehensive property management platform covering the full asset lifecycle — acquisition, tenant onboarding, lease tracking, payment processing, and executive reporting dashboards.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-0D1117?style=flat-square&logo=laravel&logoColor=FF2D20" />
+        <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00E5FF" />
+        <img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1" />
+      </p>
+      <sub>Property Management · Reports · Customer Portal</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Coaching Management System</h3>
+      <p>Student lifecycle management platform with automated scheduling, attendance tracking, result processing, SMS notifications, and a multi-role CMS for administrators, teachers, and students.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=777BB4" />
+        <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+        <img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1" />
+      </p>
+      <sub>Attendance · Results · Routine · SMS · CMS</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>School Management System</h3>
+      <p>Full-scale educational institution management — attendance, grading, payroll, teacher-parent communication portals, and multi-branch operational dashboards.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-0D1117?style=flat-square&logo=laravel&logoColor=FF2D20" />
+        <img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+        <img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1" />
+      </p>
+      <sub>Grading · Payroll · Multi-Branch · REST API</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Robot Warrior</h3>
+      <p>High-fidelity hard-surface 3D character — fully modeled, textured with PBR workflow in Substance Painter, rigged, and rendered in Cycles. Deployed with an interactive web portfolio showcase.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Blender-0D1117?style=flat-square&logo=blender&logoColor=E87D0D" />
+        <img src="https://img.shields.io/badge/Substance-0D1117?style=flat-square&logo=adobesubstance3dpainter&logoColor=FF7C00" />
+        <img src="https://img.shields.io/badge/Cycles-0D1117?style=flat-square&logo=blender&logoColor=8B5CF6" />
+      </p>
+      <sub>Hard Surface · PBR · Rigging · Cycles Render</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>3D Portfolio</h3>
+      <p>Curated collection of product visualizations, architectural renders, game-ready assets, environment designs, and animation studies showcasing the full 3D production pipeline.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Blender-0D1117?style=flat-square&logo=blender&logoColor=E87D0D" />
+        <img src="https://img.shields.io/badge/Unreal-0D1117?style=flat-square&logo=unrealengine&logoColor=FFFFFF" />
+        <img src="https://img.shields.io/badge/Unity-0D1117?style=flat-square&logo=unity&logoColor=FFFFFF" />
+      </p>
+      <sub>Product Viz · Environment · Animation · Game Assets</sub>
+    </td>
+  </tr>
+
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" />
+</p>
+
+<!----------------------------------------------------------------------
+  3D PORTFOLIO
+----------------------------------------------------------------------->
+
+<h2 align="center">3D Portfolio</h2>
+
+<br/>
+
+<table align="center" width="90%" border="0" cellpadding="8" cellspacing="0">
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <b>Product Visualization</b><br/>
+      <sub>Photorealistic product renders<br/>and material studies</sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <b>Hard Surface Modeling</b><br/>
+      <sub>Mechanical parts, robots,<br/>weapons, vehicles</sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <b>Architectural Viz</b><br/>
+      <sub>Interior / exterior renders<br/>and walkthroughs</sub>
+    </td>
+  </tr>
+  <tr><td colspan="3"><br/></td></tr>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <b>Animation</b><br/>
+      <sub>Character rigs, mechanical<br/>motion, VFX</sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <b>Game Assets</b><br/>
+      <sub>Optimized meshes, LOD<br/>hierarchies, PBR textures</sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <b>Environment Design</b><br/>
+      <sub>Sci-fi, fantasy, and<br/>realistic environments</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ArtStation-0D1117?style=for-the-badge&logo=artstation&logoColor=13AFF0" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Behance-0D1117?style=for-the-badge&logo=behance&logoColor=1769FF" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" />
+</p>
+
+<!----------------------------------------------------------------------
+  GITHUB STATS
+----------------------------------------------------------------------->
+
+<h2 align="center">GitHub Statistics</h2>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=jabirhassan-artimas&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=8B5CF6&ring_color=8B5CF6&theme=dark" height="175" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jabirhassan-artimas&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&theme=dark" height="175" alt="Top Languages" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jabirhassan-artimas&hide_border=true&background=0D1117&ring=8B5CF6&fire=00E5FF&currStreakNum=FFFFFF&sideNums=C9D1D9&sideLabels=8B5CF6&dates=8F9CAE&stroke=8B5CF6&currStreakLabel=00E5FF" alt="GitHub Streak" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jabirhassan-artimas&bg_color=0D1117&color=00E5FF&line=8B5CF6&point=00E5FF&area=true&hide_border=true&area_color=8B5CF6" alt="Contribution Graph" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" />
+</p>
+
+<!----------------------------------------------------------------------
+  CURRENT FOCUS + LEARNING
+----------------------------------------------------------------------->
+
+<h2 align="center">Current Focus &amp; Learning</h2>
+
+<br/>
+
+<table align="center" width="72%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="50%" valign="top">
+      <b>Currently Building</b>
+      <ul>
+        <li>Offline ERP Systems</li>
+        <li>AI-Powered Desktop Software</li>
+        <li>3D Product Visualization Pipeline</li>
+        <li>Enterprise POS &amp; Inventory</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <b>Currently Learning</b>
+      <ul>
+        <li>Docker &amp; Microservices</li>
+        <li>DevOps &amp; Cloud Deployment</li>
+        <li>AI Integration &amp; LLM APIs</li>
+        <li>Advanced GLSL / Real-time Shaders</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" />
+</p>
+
+<!----------------------------------------------------------------------
+  SERVICES
+----------------------------------------------------------------------->
+
+<h2 align="center">Available For</h2>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Development-0D1117?style=for-the-badge&logo=code&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/Desktop%20Application%20Development-0D1117?style=for-the-badge&logo=electron&logoColor=8B5CF6" />
+  <img src="https://img.shields.io/badge/ERP%20%26%20POS%20Development-0D1117?style=for-the-badge&logo=databricks&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/REST%20API%20Development-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/3D%20Modeling%20%26%20Visualization-0D1117?style=for-the-badge&logo=blender&logoColor=E87D0D" />
+  <img src="https://img.shields.io/badge/Product%20Rendering-0D1117?style=for-the-badge&logo=blender&logoColor=8B5CF6" />
+  <img src="https://img.shields.io/badge/Game%20Asset%20Creation-0D1117?style=for-the-badge&logo=unity&logoColor=FFFFFF" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" />
+</p>
+
+<!----------------------------------------------------------------------
+  CONTACT
+----------------------------------------------------------------------->
+
+<h2 align="center">Contact</h2>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/jabirhassan-artimas">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  </a>
+  <a href="https://linkedin.com/in/your-username">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-080B10?style=for-the-badge&logo=gmail&logoColor=00F0FF" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
-  <a href="https://linkedin.com/in/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-080B10?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn" />
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=00E5FF" />
   </a>
-  <a href="https://artstation.com/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/ArtStation-080B10?style=for-the-badge&logo=artstation&logoColor=BD00FF" alt="ArtStation" />
+  <a href="https://artstation.com/your-username">
+    <img src="https://img.shields.io/badge/ArtStation-0D1117?style=for-the-badge&logo=artstation&logoColor=13AFF0" />
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-080B10?style=for-the-badge&logo=firefox&logoColor=00F0FF" alt="Portfolio" />
+  <a href="https://behance.net/your-username">
+    <img src="https://img.shields.io/badge/Behance-0D1117?style=for-the-badge&logo=behance&logoColor=1769FF" />
+  </a>
+  <a href="https://facebook.com/your-username">
+    <img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=1877F2" />
   </a>
 </p>
 
+<br/>
+
 <p align="center">
-  <img src="./assets/footer.svg?v=2" alt="Footer wave animation" width="100%" />
+  <img src="./assets/divider.svg" width="100%" />
+</p>
+
+<!----------------------------------------------------------------------
+  REPOSITORY NAMING GUIDE (Hidden comment for owner reference)
+  
+  Better repository names — replace your current repos:
+  
+  efootball77777       → football-management-system
+  wfootball4455        → football-club-management
+  
+  Principles:
+  - Use kebab-case (lowercase-with-hyphens)
+  - Describe the purpose, not the technology
+  - Be concise but descriptive
+  - Example patterns:
+      ✓ offline-pos-system
+      ✓ real-estate-erp
+      ✓ coaching-management-system
+      ✓ school-management-system
+      ✓ electron-inventory-app
+      ✓ laravel-rest-api-boilerplate
+      ✓ blender-robot-warrior
+      ✓ 3d-product-visualization
+----------------------------------------------------------------------->
+
+<!----------------------------------------------------------------------
+  FOOTER
+----------------------------------------------------------------------->
+
+<br/>
+
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Footer" />
+</p>
+
+<p align="center">
+  <sub>Designed &amp; built with precision by <strong>Jabir Hassan</strong> — Bangladesh</sub>
 </p>
