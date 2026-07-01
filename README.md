@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jabirhassan-artimas/jabirhassan-artimas/main/assets/banner.svg" alt="Jabir Hassan Cyberpunk Banner" width="100%" />
+  <img src="./assets/banner.svg?v=2" alt="Jabir Hassan Cyberpunk Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.github-profile-visitor-counter.herokuapp.com/?username=jabirhassan-artimas&color=00f0ff&style=flat-square&label=SYSTEM+ACCESSES" alt="Visitor Counter" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jabirhassan-artimas&color=00F0FF" alt="Visitor Counter" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jabirhassan-artimas/jabirhassan-artimas/main/assets/divider.svg" alt="Separator" width="100%" />
+  <img src="./assets/divider.svg?v=2" alt="Separator" width="100%" />
 </p>
 
 <h2 align="center">✦ SYSTEM_OVERVIEW ✦</h2>
@@ -27,7 +27,7 @@ I build complete digital products—from highly scalable web applications to imm
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jabirhassan-artimas/jabirhassan-artimas/main/assets/divider.svg" alt="Separator" width="100%" />
+  <img src="./assets/divider.svg?v=2" alt="Separator" width="100%" />
 </p>
 
 <h2 align="center">✦ TECH_STACK ✦</h2>
@@ -74,7 +74,7 @@ I build complete digital products—from highly scalable web applications to imm
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jabirhassan-artimas/jabirhassan-artimas/main/assets/divider.svg" alt="Separator" width="100%" />
+  <img src="./assets/divider.svg?v=2" alt="Separator" width="100%" />
 </p>
 
 <h2 align="center">✦ FEATURED_PROJECTS ✦</h2>
@@ -119,7 +119,7 @@ I build complete digital products—from highly scalable web applications to imm
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jabirhassan-artimas/jabirhassan-artimas/main/assets/divider.svg" alt="Separator" width="100%" />
+  <img src="./assets/divider.svg?v=2" alt="Separator" width="100%" />
 </p>
 
 <h2 align="center">✦ TERMINAL_STATS ✦</h2>
@@ -128,10 +128,10 @@ I build complete digital products—from highly scalable web applications to imm
   <table border="0" cellspacing="5" cellpadding="0">
     <tr>
       <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api?username=jabirhassan-artimas&show_icons=true&theme=tokyonight&bg_color=080B10&title_color=00F0FF&text_color=E2E8F0&icon_color=BD00FF&border_color=00F0FF&hide_border=false" alt="GitHub Stats" />
+        <img src="https://github-stats-extended.vercel.app/api?username=jabirhassan-artimas&show_icons=true&theme=tokyonight&bg_color=080B10&title_color=00F0FF&text_color=E2E8F0&icon_color=BD00FF&border_color=00F0FF&hide_border=false" alt="GitHub Stats" />
       </td>
       <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabirhassan-artimas&layout=compact&theme=tokyonight&bg_color=080B10&title_color=00F0FF&text_color=E2E8F0&icon_color=BD00FF&border_color=00F0FF&hide_border=false" alt="Top Languages" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jabirhassan-artimas&layout=compact&theme=tokyonight&bg_color=080B10&title_color=00F0FF&text_color=E2E8F0&icon_color=BD00FF&border_color=00F0FF&hide_border=false" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -158,7 +158,7 @@ I build complete digital products—from highly scalable web applications to imm
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jabirhassan-artimas/jabirhassan-artimas/main/assets/divider.svg" alt="Separator" width="100%" />
+  <img src="./assets/divider.svg?v=2" alt="Separator" width="100%" />
 </p>
 
 <h2 align="center">✦ CURRENT_LEARNING ✦</h2>
@@ -181,7 +181,7 @@ I build complete digital products—from highly scalable web applications to imm
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jabirhassan-artimas/jabirhassan-artimas/main/assets/divider.svg" alt="Separator" width="100%" />
+  <img src="./assets/divider.svg?v=2" alt="Separator" width="100%" />
 </p>
 
 <h2 align="center">✦ SECURE_COMMUNICATION ✦</h2>
@@ -206,5 +206,5 @@ Feel free to reach out for project collaboration, software consultancy, or custo
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jabirhassan-artimas/jabirhassan-artimas/main/assets/footer.svg" alt="Footer wave animation" width="100%" />
+  <img src="./assets/footer.svg?v=2" alt="Footer wave animation" width="100%" />
 </p>
