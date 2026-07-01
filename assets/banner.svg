@@ -1,16 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="100%" height="100%">
   <defs>
     <!-- Fonts -->
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@800;900&family=Rajdhani:wght@600;700&amp;display=swap');
-
+    <style type="text/css"><![CDATA[
       /* Global Styles */
       .bg {
         fill: #080B10;
       }
       
       .text-title {
-        font-family: 'Orbitron', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        font-family: 'Orbitron', 'Century Gothic', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
         font-size: 46px;
         font-weight: 900;
         letter-spacing: 12px;
@@ -20,7 +18,7 @@
       }
 
       .text-subtitle {
-        font-family: 'Rajdhani', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        font-family: 'Rajdhani', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif;
         font-size: 14px;
         font-weight: 700;
         letter-spacing: 6px;
@@ -121,7 +119,7 @@
         stroke-width: 0.5;
         opacity: 0.1;
       }
-    </style>
+    ]]></style>
 
     <!-- Gradients -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">

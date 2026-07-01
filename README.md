@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Jabir Hassan Cyberpunk Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/jabirhassan-artimas/jabirhassan-artimas/main/assets/banner.svg" alt="Jabir Hassan Cyberpunk Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/divider.svg" alt="Separator" width="100%" />
+  <img src="https://raw.githubusercontent.com/jabirhassan-artimas/jabirhassan-artimas/main/assets/divider.svg" alt="Separator" width="100%" />
 </p>
 
 <h2 align="center">✦ SYSTEM_OVERVIEW ✦</h2>
@@ -27,7 +27,7 @@ I build complete digital products—from highly scalable web applications to imm
 </p>
 
 <p align="center">
-  <img src="assets/divider.svg" alt="Separator" width="100%" />
+  <img src="https://raw.githubusercontent.com/jabirhassan-artimas/jabirhassan-artimas/main/assets/divider.svg" alt="Separator" width="100%" />
 </p>
 
 <h2 align="center">✦ TECH_STACK ✦</h2>
@@ -74,7 +74,7 @@ I build complete digital products—from highly scalable web applications to imm
 </p>
 
 <p align="center">
-  <img src="assets/divider.svg" alt="Separator" width="100%" />
+  <img src="https://raw.githubusercontent.com/jabirhassan-artimas/jabirhassan-artimas/main/assets/divider.svg" alt="Separator" width="100%" />
 </p>
 
 <h2 align="center">✦ FEATURED_PROJECTS ✦</h2>
@@ -119,7 +119,7 @@ I build complete digital products—from highly scalable web applications to imm
 </table>
 
 <p align="center">
-  <img src="assets/divider.svg" alt="Separator" width="100%" />
+  <img src="https://raw.githubusercontent.com/jabirhassan-artimas/jabirhassan-artimas/main/assets/divider.svg" alt="Separator" width="100%" />
 </p>
 
 <h2 align="center">✦ TERMINAL_STATS ✦</h2>
@@ -158,7 +158,7 @@ I build complete digital products—from highly scalable web applications to imm
 </div>
 
 <p align="center">
-  <img src="assets/divider.svg" alt="Separator" width="100%" />
+  <img src="https://raw.githubusercontent.com/jabirhassan-artimas/jabirhassan-artimas/main/assets/divider.svg" alt="Separator" width="100%" />
 </p>
 
 <h2 align="center">✦ CURRENT_LEARNING ✦</h2>
@@ -181,7 +181,7 @@ I build complete digital products—from highly scalable web applications to imm
 </div>
 
 <p align="center">
-  <img src="assets/divider.svg" alt="Separator" width="100%" />
+  <img src="https://raw.githubusercontent.com/jabirhassan-artimas/jabirhassan-artimas/main/assets/divider.svg" alt="Separator" width="100%" />
 </p>
 
 <h2 align="center">✦ SECURE_COMMUNICATION ✦</h2>
@@ -206,5 +206,5 @@ Feel free to reach out for project collaboration, software consultancy, or custo
 </p>
 
 <p align="center">
-  <img src="assets/footer.svg" alt="Footer wave animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/jabirhassan-artimas/jabirhassan-artimas/main/assets/footer.svg" alt="Footer wave animation" width="100%" />
 </p>
