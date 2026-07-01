@@ -1,0 +1,234 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="100%" height="100%">
+  <defs>
+    <!-- Fonts -->
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@800;900&family=Rajdhani:wght@600;700&amp;display=swap');
+
+      /* Global Styles */
+      .bg {
+        fill: #080B10;
+      }
+      
+      .text-title {
+        font-family: 'Orbitron', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        font-size: 46px;
+        font-weight: 900;
+        letter-spacing: 12px;
+        fill: #ffffff;
+        text-shadow: 0 0 10px #00F0FF, 0 0 20px #00F0FF, 0 0 30px #BD00FF;
+        animation: glitch 4s infinite alternate;
+      }
+
+      .text-subtitle {
+        font-family: 'Rajdhani', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        font-size: 14px;
+        font-weight: 700;
+        letter-spacing: 6px;
+        fill: #00F0FF;
+        text-shadow: 0 0 5px #00F0FF;
+        opacity: 0.9;
+        animation: pulse 2s infinite alternate;
+      }
+
+      .telemetry-text {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 9px;
+        fill: #8F9CAE;
+        opacity: 0.6;
+      }
+
+      .telemetry-value {
+        fill: #00F0FF;
+        font-weight: bold;
+      }
+
+      /* Grid Line styling */
+      .grid-line-h {
+        stroke: #BD00FF;
+        stroke-width: 1;
+        opacity: 0.25;
+      }
+      .grid-line-v {
+        stroke: #0072FF;
+        stroke-width: 1.2;
+        opacity: 0.3;
+      }
+
+      /* Animated Elements */
+      .scanline {
+        stroke: #00F0FF;
+        stroke-width: 1.5;
+        opacity: 0.3;
+        animation: scan 6s linear infinite;
+      }
+
+      .hud-bracket {
+        stroke: #00F0FF;
+        stroke-width: 2;
+        fill: none;
+        opacity: 0.8;
+      }
+
+      .hud-corner-dot {
+        fill: #BD00FF;
+        animation: blink 1s infinite alternate;
+      }
+
+      /* Keyframes */
+      @keyframes glitch {
+        0%, 100% {
+          transform: skew(0deg);
+          text-shadow: 0 0 10px #00F0FF, 0 0 20px #00F0FF, 0 0 30px #BD00FF;
+        }
+        95% {
+          transform: skew(0deg);
+        }
+        96% {
+          transform: skew(-2deg) translate(-2px, 0);
+          text-shadow: 2px -1px 0 #BD00FF, -2px 1px 0 #00F0FF;
+        }
+        97% {
+          transform: skew(3deg) translate(2px, 1px);
+          text-shadow: -2px 2px 0 #BD00FF, 2px -1px 0 #00F0FF;
+        }
+        98% {
+          transform: skew(-1deg);
+          text-shadow: 0 0 10px #00F0FF, 0 0 20px #00F0FF;
+        }
+        99% {
+          transform: skew(1deg) translate(1px, -1px);
+        }
+      }
+
+      @keyframes pulse {
+        0% { opacity: 0.7; text-shadow: 0 0 2px #00F0FF; }
+        100% { opacity: 1; text-shadow: 0 0 8px #00F0FF, 0 0 15px #0072FF; }
+      }
+
+      @keyframes scan {
+        0% { transform: translateY(0); }
+        100% { transform: translateY(300px); }
+      }
+
+      @keyframes blink {
+        0% { opacity: 0.2; }
+        100% { opacity: 1; }
+      }
+
+      .hex-grid {
+        fill: none;
+        stroke: #0072FF;
+        stroke-width: 0.5;
+        opacity: 0.1;
+      }
+    </style>
+
+    <!-- Gradients -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05080E" />
+      <stop offset="50%" stop-color="#080C14" />
+      <stop offset="100%" stop-color="#0F1626" />
+    </linearGradient>
+
+    <linearGradient id="gridFade" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0.4" />
+      <stop offset="50%" stop-color="#BD00FF" stop-opacity="0.1" />
+      <stop offset="100%" stop-color="#080B10" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Hexagon Pattern -->
+    <pattern id="hexPattern" width="40" height="69.282" patternUnits="userSpaceOnUse">
+      <path class="hex-grid" d="M 40 0 L 20 11.547 L 0 0 L 0 23.094 L 20 34.641 L 40 23.094 Z M 0 34.641 L 20 46.188 L 0 57.735 L 0 80.829 L 20 92.376 L 40 80.829 Z" />
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="300" fill="url(#bgGrad)" />
+  
+  <!-- Subtle Hex Pattern Background -->
+  <rect width="800" height="300" fill="url(#hexPattern)" />
+
+  <!-- Cyberpunk Perspective Grid (Retro Synthwave Style) -->
+  <g id="perspective-grid">
+    <!-- Horizon Separator -->
+    <line x1="0" y1="150" x2="800" y2="150" stroke="#00F0FF" stroke-width="0.8" opacity="0.3" />
+    
+    <!-- Vanishing Point at X=400, Y=150 -->
+    <!-- Perspective lines (Vertical grid lines radiating from horizon) -->
+    <line x1="400" y1="150" x2="-200" y2="300" class="grid-line-v" />
+    <line x1="400" y1="150" x2="-50" y2="300" class="grid-line-v" />
+    <line x1="400" y1="150" x2="100" y2="300" class="grid-line-v" />
+    <line x1="400" y1="150" x2="250" y2="300" class="grid-line-v" />
+    <line x1="400" y1="150" x2="400" y2="300" class="grid-line-v" />
+    <line x1="400" y1="150" x2="550" y2="300" class="grid-line-v" />
+    <line x1="400" y1="150" x2="700" y2="300" class="grid-line-v" />
+    <line x1="400" y1="150" x2="850" y2="300" class="grid-line-v" />
+    <line x1="400" y1="150" x2="1000" y2="300" class="grid-line-v" />
+
+    <!-- Horizontal grid lines spacing closer to the horizon -->
+    <line x1="0" y1="155" x2="800" y2="155" class="grid-line-h" />
+    <line x1="0" y1="162" x2="800" y2="162" class="grid-line-h" />
+    <line x1="0" y1="172" x2="800" y2="172" class="grid-line-h" />
+    <line x1="0" y1="185" x2="800" y2="185" class="grid-line-h" />
+    <line x1="0" y1="202" x2="800" y2="202" class="grid-line-h" />
+    <line x1="0" y1="225" x2="800" y2="225" class="grid-line-h" />
+    <line x1="0" y1="255" x2="800" y2="255" class="grid-line-h" />
+    <line x1="0" y1="295" x2="800" y2="295" class="grid-line-h" />
+  </g>
+
+  <!-- Glowing Overlay for Grid -->
+  <rect y="150" width="800" height="150" fill="url(#gridFade)" pointer-events="none" />
+
+  <!-- Animated Scanline -->
+  <line x1="0" y1="0" x2="800" y2="0" class="scanline" />
+
+  <!-- HUD Corner Brackets -->
+  <g id="hud-frame">
+    <!-- Top-Left -->
+    <path class="hud-bracket" d="M 30 40 L 15 40 L 15 55" />
+    <!-- Top-Right -->
+    <path class="hud-bracket" d="M 770 40 L 785 40 L 785 55" />
+    <!-- Bottom-Left -->
+    <path class="hud-bracket" d="M 30 260 L 15 260 L 15 245" />
+    <!-- Bottom-Right -->
+    <path class="hud-bracket" d="M 770 260 L 785 260 L 785 245" />
+    
+    <!-- Outer thin border -->
+    <rect x="20" y="25" width="760" height="250" fill="none" stroke="#0072FF" stroke-width="0.5" opacity="0.3" />
+  </g>
+
+  <!-- Telemetry HUD Text (Cyberpunk Info Overlay) -->
+  <g id="telemetry">
+    <!-- Top Left -->
+    <text x="35" y="45" class="telemetry-text">SYSTEM: <tspan class="telemetry-value">ONLINE</tspan></text>
+    <text x="35" y="60" class="telemetry-text">PORT: <tspan class="telemetry-value">8080 // SECURE</tspan></text>
+    <text x="35" y="75" class="telemetry-text">LOC: <tspan class="telemetry-value">23.6850° N / 90.3563° E</tspan></text>
+
+    <!-- Top Right -->
+    <text x="765" y="45" class="telemetry-text" text-anchor="end">SYS_TYPE: <tspan class="telemetry-value">DEV_CORE.3D</tspan></text>
+    <text x="765" y="60" class="telemetry-text" text-anchor="end">OS: <tspan class="telemetry-value">WIN_11_X64</tspan></text>
+    <text x="765" y="75" class="telemetry-text" text-anchor="end">NET: <tspan class="telemetry-value">CONNECTED</tspan></text>
+
+    <!-- Decorative status boxes -->
+    <rect x="35" y="85" width="8" height="8" fill="#00F0FF" opacity="0.8" />
+    <rect x="47" y="85" width="8" height="8" fill="#BD00FF" class="hud-corner-dot" />
+    <rect x="59" y="85" width="8" height="8" fill="#0072FF" opacity="0.8" />
+  </g>
+
+  <!-- Centered Branding and Info -->
+  <g transform="translate(400, 125)">
+    <!-- Main Title -->
+    <text class="text-title" text-anchor="middle" y="0">JABIR HASSAN</text>
+    
+    <!-- Decorative Subtitle Line -->
+    <line x1="-150" y1="20" x2="150" y2="20" stroke="#BD00FF" stroke-width="2" opacity="0.8" />
+    <circle cx="0" cy="20" r="3" fill="#00F0FF" />
+
+    <!-- Subtitle -->
+    <text class="text-subtitle" text-anchor="middle" y="40">SOFTWARE ENGINEER | 3D ARTIST</text>
+  </g>
+  
+  <!-- Subtle coordinate crosshairs -->
+  <path d="M 400 15 L 400 30 M 390 22.5 L 410 22.5" stroke="#00F0FF" stroke-width="0.5" opacity="0.4" />
+  <circle cx="400" cy="22.5" r="4" fill="none" stroke="#00F0FF" stroke-width="0.5" opacity="0.4" />
+</svg>

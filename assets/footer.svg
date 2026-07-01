@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 80" width="100%" height="100%">
+  <defs>
+    <style>
+      .wave-cyan {
+        fill: url(#gradCyan);
+        stroke: #00F0FF;
+        stroke-width: 1.5;
+        opacity: 0.25;
+        animation: waveFlowLeft 12s linear infinite;
+      }
+      .wave-purple {
+        fill: url(#gradPurple);
+        stroke: #BD00FF;
+        stroke-width: 1.5;
+        opacity: 0.2;
+        animation: waveFlowRight 8s linear infinite;
+      }
+      .wave-blue {
+        fill: none;
+        stroke: #0072FF;
+        stroke-width: 1;
+        opacity: 0.3;
+        stroke-dasharray: 4, 4;
+        animation: waveFlowLeft 16s linear infinite;
+      }
+      
+      @keyframes waveFlowLeft {
+        0% { transform: translateX(0); }
+        100% { transform: translateX(-500px); }
+      }
+      @keyframes waveFlowRight {
+        0% { transform: translateX(-500px); }
+        100% { transform: translateX(0); }
+      }
+    </style>
+
+    <linearGradient id="gradCyan" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#05080E" stop-opacity="0.9" />
+    </linearGradient>
+
+    <linearGradient id="gradPurple" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#BD00FF" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#05080E" stop-opacity="0.9" />
+    </linearGradient>
+  </defs>
+
+  <!-- Dark Background matching the page -->
+  <rect width="800" height="80" fill="#080B10" />
+
+  <!-- Wave 2 (Purple) -->
+  <path class="wave-purple" d="M 0 50 
+           C 125 20, 125 80, 250 50 
+           C 375 20, 375 80, 500 50 
+           C 625 20, 625 80, 750 50 
+           C 875 20, 875 80, 1000 50 
+           C 1125 20, 1125 80, 1250 50 
+           C 1375 20, 1375 80, 1500 50
+           L 1500 80 L 0 80 Z" />
+
+  <!-- Wave 1 (Cyan) -->
+  <path class="wave-cyan" d="M 0 45 
+           C 125 75, 125 15, 250 45 
+           C 375 75, 375 15, 500 45 
+           C 625 75, 625 15, 750 45 
+           C 875 75, 875 15, 1000 45 
+           C 1125 75, 1125 15, 1250 45 
+           C 1375 75, 1375 15, 1500 45
+           L 1500 80 L 0 80 Z" />
+
+  <!-- Wave 3 (Dashed Blue line overlay) -->
+  <path class="wave-blue" d="M 0 35 
+           C 125 65, 125 5, 250 35 
+           C 375 65, 375 5, 500 35 
+           C 625 65, 625 5, 750 35 
+           C 875 65, 875 5, 1000 35 
+           C 1125 65, 1125 5, 1250 35 
+           C 1375 65, 1375 5, 1500 35" />
+</svg>
